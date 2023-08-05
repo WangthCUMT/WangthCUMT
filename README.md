@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+🔭 I’m currently working on China university of mining and technology
+🌱 I’m currently learning mining engineering
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangthCUMT)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **WangthCUMT/WangthCUMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
